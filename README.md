@@ -1,2 +1,2 @@
-# Programa-o-Orientada-a-Objetos
-Atividades Acadêmicas
+# Programação-Orientada-a-Objetos
+Projetos Acadêmicos
